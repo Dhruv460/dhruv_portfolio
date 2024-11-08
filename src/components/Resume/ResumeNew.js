@@ -32,7 +32,7 @@ function ResumeNew() {
               variant="primary"
               href={pdf}
               target="_blank"
-              style={{ maxWidth: "250px", marginRight: "10px" }}
+              style={{ maxWidth: "200px", marginRight: "10px" }}
             >
               <AiOutlineDownload />
               &nbsp;Download CV
